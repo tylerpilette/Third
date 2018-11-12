@@ -1,0 +1,3 @@
+var topics = ["Arizona Cardinals","Chicago Bears","Green Bay Packers","New York Giants","Detroit Lions","Washington Redskins","Philadelphia Eagles","Pittsburgh Steelers","Los Angeles Rams","San Francisco 49ers","Cleveland Browns","Indianapolis Colts","Dallas Cowboys","Kansas City Chiefs","Los Angeles Chargers","Denver Broncos","New York Jets","New England Patriots","Oakland Raiders","Tennessee Titans","Buffalo Bills","Minnesota Vikings","Atlanta Falcons","Miami Dolphins","New Orleans Saints","Cincinati Bengals","Seattle Seahawks","Tampa Bay Buccaneers","Carolina Panthers","Jacksonville Jaguars","Baltimore Ravens","Houston Texans"]
+
+document.getElementsByClassName("badge badge-pill badge-dark")
